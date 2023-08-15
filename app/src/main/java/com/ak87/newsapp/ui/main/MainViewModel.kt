@@ -32,6 +32,4 @@ class MainViewModel @Inject constructor(private val repository: NewsRepository) 
                 newsLiveData.postValue(Resource.Error(message = response.message()))
             }
         }
-
-
 }
