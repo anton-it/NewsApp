@@ -3,5 +3,7 @@
     <string name="popular_news">Popular news</string>
     <string name="search">Search</string>
     <string name="musk_invited">Musk invited</string>
+    <string name="visit_site">Visit site</string>
+    <string name="error_show_article_details">The device doesn\'t not have any browser to view the document!</string>
 
 </resources>
